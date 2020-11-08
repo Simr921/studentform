@@ -1,0 +1,19 @@
+*{
+   margin: 0 ;
+   padding: 0;
+
+}
+body{
+   
+  
+   
+}
+form{
+    margin: 4% auto ;
+   text-align: center;
+   padding: 3%;
+    background-color: burlywood;
+    height:650px;
+    width: 30%;
+    position: relative;
+}    
